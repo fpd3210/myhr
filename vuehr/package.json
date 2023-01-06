@@ -20,7 +20,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-plugin-router": "~4.3.0",
-    "@vue/cli-service": "~4.3.0",
+    "@vue/cli-service": "~5.0.8",
     "font-awesome": "^4.7.0",
     "sockjs-client": "^1.4.0",
     "stompjs": "^2.3.3",
